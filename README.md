@@ -1,7 +1,7 @@
 # vuokaaviot
 
 
-Tanssiseuran etsintä
+## Tanssiseuran etsintä
 ```mermaid
 graph TD;
   A([Haluat tanssiseuraa]) --> B{Pyydät henkilöä tanssimaan};
@@ -13,7 +13,7 @@ graph TD;
   
 ```
 
-Lampun vaihto
+## Lampun vaihto
 ```mermaid
 graph TD;
   A([Lamppu ei toimi]) --> B{Lamppu kytketty?}

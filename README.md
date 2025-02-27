@@ -25,10 +25,12 @@ graph TD;
 ```mermaid
 graph TD;
   subgraph Lampun vaihto
-    A([Lamppu ei toimi]) --> B{Lamppu kytketty?} -- Kyllä --> C{Polttimo palanut?} -- Ei --> D(Osta uusi lamppu);
+    A([Lamppu ei toimi]) --> B{Lamppu kytketty?} -- Kyllä --> C{Polttimo palanut?} -- Ei --> D(Osta uusi lamppu) --> G([Lopetus]);
   end
   B -- Ei --> E(Kytke lamppu);
+  E --> H([Lopetus])
   C -- Kyllä --> F(Vaihda polttimo);
+  F --> I([Lopetus])
 ```
 
 ## Lomapäivä

@@ -43,3 +43,15 @@ graph TD;
   F --> G([Lopeta])
 ```
 
+## Herätys aamulla
+```mermaid
+flowchart TD
+  subgraph Herätys aamulla
+    A((Alku)) --> B(Herätyskello soi) --> C{Oletko valmis nousemaan?} --> |Kyllä| D(Nouse ylös sängystä) --> E((Loppu))
+  end
+  G --> B
+  F --> G[Lepää]
+  C --> |Ei| F([Käytä Snooze -toimintoa])
+  
+```
+

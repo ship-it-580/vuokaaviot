@@ -1,9 +1,59 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
-  <diagram name="Sivu-1" id="uZ6OUUNXoE6KYHjwV0n8">
-    <mxGraphModel>
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1">
+    <mxGraphModel dx="954" dy="478" grid="1" gridsize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="0" value="Page-1" style="group" vertex="1" connectable="0">
+          <mxGeometry x="0" y="0" width="827" height="1169" as="geometry"/>
+        </mxCell>
+        <mxCell id="1" value="" style="group" vertex="1" connectable="0">
+          <mxGeometry width="827" height="1169" as="geometry"/>
+        </mxCell>
+        <mxCell id="2" value="Käyttötunnuksen valinta" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4CAF50;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="40" y="40" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="3" value="Valuutan valinta (1. versio)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4CAF50;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="40" y="140" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="4" value="Valuutoiden vertailu (2. versio)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F44336;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="40" y="240" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="5" value="Euron arvo (tallennus & tarkistus)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F44336;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="40" y="340" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="Näytä valuutan arvo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4CAF50;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="40" y="440" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="7" value="Vaihda valuuttaa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F44336;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="40" y="540" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="8" value="Valuutoiden yhteenveto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F44336;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="300" y="40" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="9" value="Valuutoiden arvo tallennetaan & tarkistetaan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4CAF50;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="300" y="140" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="Käyttäjä valitsee valuutan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F44336;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="300" y="240" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="Valuutoiden tiedot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4CAF50;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="300" y="340" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="12" value="Värit vihreä, musta, punainen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4CAF50;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="300" y="440" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="13" value="Käyttöliittymän rakenne" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F44336;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="300" y="540" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="14" value="Toimeksiantajan hyväksyntä" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4CAF50;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="560" y="40" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="15" value="Valmiin sovelluksen toimitus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F44336;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="560" y="140" width="220" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="16" value="Asiakaspalaute" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4CAF50;strokeColor=#000000;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;dashed=0;glassy=0;shadow=0;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" connectable="1">
+          <mxGeometry x="560" y="240" width="220" height="80" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
